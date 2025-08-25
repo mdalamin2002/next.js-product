@@ -21,10 +21,10 @@ export default function Contact() {
               <FaMapMarkerAlt className="text-blue-600"/> Dhaka, Bangladesh
             </li>
             <li className="flex items-center gap-2">
-              <FaEnvelope className="text-green-500"/> khbidyut31@gmail.com
+              <FaEnvelope className="text-green-500"/> alaminbinesar@gmail.com
             </li>
             <li className="flex items-center gap-2">
-              <FaPhone className="text-yellow-500"/> +880 1796 343 549
+              <FaPhone className="text-yellow-500"/> +8801518733608
             </li>
           </ul>
         </div>
